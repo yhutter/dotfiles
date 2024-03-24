@@ -1,0 +1,15 @@
+custom-shader = "~/.config/ghostty/shaders/grayscale.glsl"
+theme = "Adventure"
+font-family = "JetbrainsMono Nerd Font"
+font-size = 18
+keybind=cmd+.=increase_font_size:2
+keybind=cmd+-=decrease_font_size:2
+keybind=cmd+,=reset_font_size
+
+macos-titlebar-style = tabs
+
+shell-integration-features = no-cursor
+cursor-style = "block"
+
+background-opacity = 0.96
+background-blur = true
