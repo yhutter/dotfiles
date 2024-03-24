@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/yhutter/GitRepos/c-color-buffer/src'
+let g:netrw_dirhist_6='/Users/yhutter/GitRepos/c-color-buffer'
+let g:netrw_dirhist_5='/Users/yhutter/GitRepos/fhgr-va-manhuag-explorer'
+let g:netrw_dirhist_4='/Users/yhutter/GitRepos/c-game-of-life/src'
+let g:netrw_dirhist_3='/Users/yhutter/GitRepos/c-game-of-life'
+let g:netrw_dirhist_2='/Users/yhutter/GitRepos/c-color-buffer/src'
+let g:netrw_dirhist_1='/Users/yhutter/GitRepos/c-color-buffer'
