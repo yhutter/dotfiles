@@ -1,0 +1,9 @@
+theme = gruber-darker
+
+font-size = 20.0
+
+keybind = cmd+.=increase_font_size:2
+keybind = cmd+,=decrease_font_size:2
+keybind = cmd+-=reset_font_size
+keybind = cmd+l=goto_split:next
+keybind = cmd+h=goto_split:previous
