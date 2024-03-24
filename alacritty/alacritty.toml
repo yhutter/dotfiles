@@ -1,0 +1,65 @@
+import = ["~/.config/alacritty/gruber_darker.toml"]
+live_config_reload = true
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 16
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[mouse]
+hide_when_typing = true
+
+[[mouse.bindings]]
+action = "PasteSelection"
+mouse = "Middle"
+
+[[keyboard.bindings]]
+action = "IncreaseFontSize"
+key = "."
+mods = "Command"
+
+[[keyboard.bindings]]
+action = "DecreaseFontSize"
+key = "-"
+mods = "Command"
+
+[[keyboard.bindings]]
+action = "ResetFontSize"
+key = ","
+mods = "Command"
+
+[[keyboard.bindings]]
+action = "ToggleViMode"
+key = "V"
+mods = "Control"
+
+[scrolling]
+history = 10000
+multiplier = 1
+
+[selection]
+save_to_clipboard = false
+semantic_escape_chars = ",‚îÇ`|:\"' ()[]{}<>"
+
+[window]
+decorations = "full"
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 0
+lines = 0
+
+[window.padding]
+x = 12
+y = 12
