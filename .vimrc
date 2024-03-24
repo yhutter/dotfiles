@@ -1,0 +1,9 @@
+colorscheme farout
+set tabstop=4
+set smarttab 
+set shiftwidth=4
+set relativenumber
+set noswapfile
+set termguicolors
+syntax on
+set smartindent
