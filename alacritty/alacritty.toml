@@ -1,0 +1,28 @@
+[general]
+import = ["~/.config/alacritty/gruvbox_dark.toml"]
+
+[font]
+size = 20.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Regular Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Regular Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[keyboard]
+bindings = [
+    { key = ".", mods = "Command", action = "IncreaseFontSize" },
+    { key = ",", mods = "Command", action = "DecreaseFontSize" },
+    { key = "-", mods = "Command", action = "ResetFontSize" },
+]
