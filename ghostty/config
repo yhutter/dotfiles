@@ -1,0 +1,11 @@
+theme = "Hax0R_BLUE"
+
+font-family = "JetbrainsMono Nerd Font"
+font-size = 18
+keybind=cmd+.=increase_font_size:2
+keybind=cmd+-=decrease_font_size:2
+keybind=cmd+,=reset_font_size
+
+background-opacity=0.9
+background-blur=true
+
