@@ -1,0 +1,10 @@
+theme = catppuccin-night
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 20.0
+
+keybind = cmd+.=increase_font_size:2
+keybind = cmd+-=decrease_font_size:2
+keybind = cmd+,=reset_font_size
+
+background-opacity = 0.95
+background-blur = true
