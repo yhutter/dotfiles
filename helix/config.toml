@@ -1,0 +1,4 @@
+theme = "farout_transparent"
+
+[editor.statusline]
+center = ["file-type"]

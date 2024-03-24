@@ -1,0 +1,45 @@
+[colors]
+foreground = "#E0CCAE"
+background = "#0f0908"
+cursor_bg = "#E0CCAE"
+cursor_border = "#E0CCAE"
+cursor_fg = "#0f0908"
+selection_bg = "#6b442f"
+selection_fg = "#E0CCAE"
+split = "#d47d49"
+compose_cursor = "#ff9e64"
+scrollbar_thumb = "#241816"
+
+ansi = ["#0c0706", "#bf472c", "#a4896f", "#f2a766", "#d47d49", "#8a4b53", "#a67458", "#F2A766"]
+brights = ["#392D2B", "#bf472c", "#a4896f", "#f2a766", "#d47d49", "#8a4b53", "#a67458", "#E0CCAE"]
+
+[colors.tab_bar]
+inactive_tab_edge = "#1f1311"
+background = "#0f0908"
+
+[colors.tab_bar.active_tab]
+fg_color = "#1f1311"
+bg_color = "#d47d49"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#66292F"
+bg_color = "#241816"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#d47d49"
+bg_color = "#241816"
+# intensity = "Bold"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#d47d49"
+bg_color = "#0f0908"
+intensity = "Bold"
+
+[colors.tab_bar.new_tab]
+fg_color = "#d47d49"
+bg_color = "#0f0908"
+
+[metadata]
+aliases = []
+author = "folke"
+name = "Farout"
