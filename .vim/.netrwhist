@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/yhutter/GitRepos/c-fdg/src'
+let g:netrw_dirhist_7='/Users/yhutter/GitRepos/c-fdg'
+let g:netrw_dirhist_6='/Users/yhutter/GitRepos/c-fdg/src'
+let g:netrw_dirhist_5='/Users/yhutter/GitRepos/c-fdg'
+let g:netrw_dirhist_4='/Users/yhutter/GitRepos/raylib-instance-rendering/src'
+let g:netrw_dirhist_3='/Users/yhutter/GitRepos/raylib-instance-rendering'
+let g:netrw_dirhist_2='/Users/yhutter/GitRepos/c-fdg/src'
+let g:netrw_dirhist_1='/Users/yhutter/GitRepos/c-fdg'
+let g:netrw_dirhist_0='/Users/yhutter/GitRepos/c-fdg/src'
+let g:netrw_dirhist_9='/Users/yhutter/GitRepos/c-fdg'

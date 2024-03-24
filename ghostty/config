@@ -1,0 +1,12 @@
+font-size = 20.0
+
+theme = "gruber-darker"
+window-theme = "auto"
+window-colorspace = "display-p3"
+macos-titlebar-style = "native"
+
+keybind = cmd+.=increase_font_size:2
+keybind = cmd+,=decrease_font_size:2
+keybind = cmd+-=reset_font_size
+keybind = cmd+l=goto_split:next
+keybind = cmd+h=goto_split:previous
