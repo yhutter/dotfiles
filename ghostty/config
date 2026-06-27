@@ -1,0 +1,10 @@
+theme = "Rose Pine"
+font-family = "JetBrainsMono Nerd Font"
+font-size = 18.0
+
+keybind = cmd+.=increase_font_size:2.0
+keybind = cmd+-=decrease_font_size:2.0
+keybind = cmd+,=reset_font_size
+
+background-opacity = 0.95
+background-blur = true
