@@ -11,24 +11,17 @@
 brew install fish # Shell
 brew install rg # Ripgrep
 brew install neovim # Text Editor
-brew install ghostty # Terminal
 brew install bat # Improved version of cat command
 brew install zoxide # Improved version of cd that remembers your visited directories
 brew install fzf # Fuzzy File Finder
-brew install yabai # Tiling Window Manager
-brew install skhd # Keyboard Shortcut Manager
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 ## Tools
-- `Neovim` for coding
-- `Ghostty` as my main terminal
+- `Neovim` for quick text edits
+- `Rider` for coding
 
 ## Wallpaper
-The wallpaper can be found [here](https://github.com/milanglacier/i3-rosepine-dotfiles/blob/master/assets/wallpapers/rose-pine-moon-wallpaper.jpeg)
-
-## Colorscheme
-I use the `Rose Pine` theme:
-- [Rose Pine](https://github.com/rose-pine/neovim)
+The wallpaper can be found [here](https://unsplash.com/photos/snow-capped-mountain-reflected-in-lake-ptmMPW2-93o)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
