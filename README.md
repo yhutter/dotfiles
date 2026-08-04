@@ -21,6 +21,9 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Neovim` text editor of choice
 - `Kitty` terminal of choice
 
+## Colorscheme
+I am using the `Farout` color scheme which can be found [here](https://github.com/thallada/farout.nvim).
+
 ## Wallpaper
 The wallpaper can be bought [here](https://ko-fi.com/s/6664076e03)
 
