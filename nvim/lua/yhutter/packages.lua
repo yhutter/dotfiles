@@ -8,6 +8,7 @@ vim.pack.add({
         version = vim.version.range("1.*")
     },
     "https://github.com/rafamadriz/friendly-snippets",
+    "https://github.com/thallada/farout.nvim"
 })
 
 local builtin = require("telescope.builtin")
@@ -26,4 +27,6 @@ require("blink.cmp").setup({
     },
     fuzzy = { implementation = "prefer_rust_with_warning" }
 })
+
+vim.cmd.colorscheme("farout")
 
