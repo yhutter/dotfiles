@@ -14,18 +14,18 @@ brew install neovim # Text Editor
 brew install bat # Improved version of cat command
 brew install zoxide # Improved version of cd that remembers your visited directories
 brew install fzf # Fuzzy File Finder
-brew install kitty # Terminal
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 ## Tools
 - `Neovim` text editor of choice
-- `Kitty` terminal of choice
+- `Ghostty` terminal of choice
 
 ## Colorscheme
-I am using the `Farout` color scheme which can be found [here](https://github.com/thallada/farout.nvim).
+I am using the `Kanagawa Wave` color scheme:
+- [Neovim](https://github.com/rebelot/kanagawa.nvim)
 
 ## Wallpaper
-The wallpaper can be bought [here](https://ko-fi.com/s/6664076e03)
+The wallpaper can be found [here](https://wallpapercrafter.com/135184-waves-digital-art-artwork-minimalism-the-great-wave-off-kanagawa.html)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 

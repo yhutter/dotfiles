@@ -1,0 +1,11 @@
+theme = Kanagawa Wave
+font-family = "JetBrainsMon Nerd Font"
+font-size = 18.0
+
+background-opacity = 0.95
+background-blur = true
+
+keybind = super+.=increase_font_size:1.5
+keybind = super+-=decrease_font_size:1.5
+keybind = super+,=reset_font_size
+
