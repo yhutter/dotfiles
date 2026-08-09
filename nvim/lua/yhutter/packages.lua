@@ -8,7 +8,7 @@ vim.pack.add({
         version = vim.version.range("1.*")
     },
     "https://github.com/rafamadriz/friendly-snippets",
-    "https://github.com/rebelot/kanagawa.nvim"
+    "https://github.com/shatur/neovim-ayu"
 })
 
 local builtin = require("telescope.builtin")
@@ -28,5 +28,5 @@ require("blink.cmp").setup({
     fuzzy = { implementation = "prefer_rust_with_warning" }
 })
 
-vim.cmd.colorscheme("kanagawa-wave")
+vim.cmd.colorscheme("ayu")
 

@@ -21,11 +21,11 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I am using the `Kanagawa Wave` color scheme:
-- [Neovim](https://github.com/rebelot/kanagawa.nvim)
+I am using the `Ayu` color scheme:
+- [Neovim](https://github.com/shatur/neovim-ayu)
 
 ## Wallpaper
-The wallpaper can be found [here](https://wallpapercrafter.com/135184-waves-digital-art-artwork-minimalism-the-great-wave-off-kanagawa.html)
+The wallpaper can be found [here](https://imgur.com/GU1bLtO)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
