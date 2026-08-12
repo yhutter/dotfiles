@@ -13,13 +13,17 @@
       "rev": "6cd7280adead7f586db6fccbd15d2cac7e2188b9",
       "src": "https://github.com/rafamadriz/friendly-snippets"
     },
+    "grapple.nvim": {
+      "rev": "b41ddfc1c39f87f3d1799b99c2f0f1daa524c5f7",
+      "src": "https://github.com/cbochs/grapple.nvim"
+    },
+    "mars.nvim": {
+      "rev": "babf7071892ab98d8ae38da3a532e0c1ece231e8",
+      "src": "https://github.com/steve-lohmeyer/mars.nvim"
+    },
     "neovim": {
       "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
       "src": "https://github.com/rose-pine/neovim"
-    },
-    "neovim-ayu": {
-      "rev": "e5a9f0fa2918d6b5f57c21b3ac014314ee5e41c8",
-      "src": "https://github.com/shatur/neovim-ayu"
     },
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",

@@ -21,11 +21,11 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I am using the `Ayu` color scheme:
-- [Neovim](https://github.com/shatur/neovim-ayu)
+I am using the `Omarchy Mars` color scheme:
+- [Omarchy Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme/tree/master)
 
 ## Wallpaper
-The wallpaper can be found [here](https://imgur.com/GU1bLtO)
+The wallpaper can be found [here](https://github.com/steve-lohmeyer/omarchy-mars-theme/blob/master/backgrounds/mars-1.png)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
