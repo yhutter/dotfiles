@@ -21,11 +21,8 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I am using the `Omarchy Mars` color scheme:
-- [Omarchy Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme/tree/master)
-
-## Wallpaper
-The wallpaper can be found [here](https://github.com/steve-lohmeyer/omarchy-mars-theme/blob/master/backgrounds/mars-1.png)
+I use a custom variant based on `Naysayer` color theme:
+- [Naysayer](https://github.com/alljokecake/naysayer-theme.nvim)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 

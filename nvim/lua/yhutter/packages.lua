@@ -8,8 +8,8 @@ vim.pack.add({
         version = vim.version.range("1.*")
     },
     "https://github.com/rafamadriz/friendly-snippets",
-    "https://github.com/steve-lohmeyer/mars.nvim",
-    "https://github.com/cbochs/grapple.nvim"
+    "https://github.com/cbochs/grapple.nvim",
+    "https://github.com/rluba/jai.vim"
 })
 
 local builtin = require("telescope.builtin")
@@ -37,7 +37,3 @@ local grapple = require("grapple")
 
 vim.keymap.set("n", "<leader>a", grapple.toggle)
 vim.keymap.set("n", "<C-e>", grapple.toggle_tags)
-
-
-vim.cmd.colorscheme("mars")
-

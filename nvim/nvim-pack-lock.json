@@ -17,9 +17,9 @@
       "rev": "b41ddfc1c39f87f3d1799b99c2f0f1daa524c5f7",
       "src": "https://github.com/cbochs/grapple.nvim"
     },
-    "mars.nvim": {
-      "rev": "babf7071892ab98d8ae38da3a532e0c1ece231e8",
-      "src": "https://github.com/steve-lohmeyer/mars.nvim"
+    "jai.vim": {
+      "rev": "591aa0a75e9bb859028248b65a1a38d46b8d8576",
+      "src": "https://github.com/rluba/jai.vim"
     },
     "neovim": {
       "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
