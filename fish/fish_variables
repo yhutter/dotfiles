@@ -40,4 +40,4 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dreverse
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/opt/homebrew/opt/llvm/bin\x1e/Users/yhutter/GitRepos/lldbg/build/user\x2drelease\x1e/Users/yhutter/Tools/dragonruby\x2dmacos\x1e/Users/yhutter/GitRepos/Odin\x1e/Users/yhutter/Tools/jai/bin\x1e/Users/yhutter/GitRepos/lldbg/bin\x1e/Applications/Sublime\x20Text\x2eapp/Contents/SharedSupport/bin\x1e/Users/yhutter/GitRepos/tools/fips\x2ddeploy/sokol\x2dtools/osx\x2dninja\x2drelease\x1e/Applications/Ghostty\x2eapp/Contents/MacOS
+SETUVAR fish_user_paths:/Users/yhutter/Tools/sokol\x2dshdc\x1e/opt/homebrew/opt/llvm/bin\x1e/Users/yhutter/GitRepos/lldbg/build/user\x2drelease\x1e/Users/yhutter/Tools/dragonruby\x2dmacos\x1e/Users/yhutter/GitRepos/Odin\x1e/Users/yhutter/Tools/jai/bin\x1e/Users/yhutter/GitRepos/lldbg/bin\x1e/Applications/Sublime\x20Text\x2eapp/Contents/SharedSupport/bin\x1e/Users/yhutter/GitRepos/tools/fips\x2ddeploy/sokol\x2dtools/osx\x2dninja\x2drelease\x1e/Applications/Ghostty\x2eapp/Contents/MacOS

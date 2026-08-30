@@ -7,9 +7,8 @@ vim.pack.add({
         name = "blink",
         version = vim.version.range("1.*")
     },
+    "https://github.com/vieitesss/miniharp.nvim",
     "https://github.com/rafamadriz/friendly-snippets",
-    "https://github.com/cbochs/grapple.nvim",
-    "https://github.com/rluba/jai.vim"
 })
 
 local builtin = require("telescope.builtin")
@@ -29,11 +28,11 @@ require("blink.cmp").setup({
     fuzzy = { implementation = "prefer_rust_with_warning" }
 })
 
-require("grapple").setup({
-    icons = false
-})
 
-local grapple = require("grapple")
+local miniharp = require('miniharp')
 
-vim.keymap.set("n", "<leader>a", grapple.toggle)
-vim.keymap.set("n", "<C-e>", grapple.toggle_tags)
+vim.keymap.set('n', '<leader>m', miniharp.toggle_file, { desc = 'miniharp: toggle file mark' })
+vim.keymap.set('n', '<C-n>',     miniharp.next,        { desc = 'miniharp: next file mark' })
+vim.keymap.set('n', '<C-p>',     miniharp.prev,        { desc = 'miniharp: prev file mark' })
+vim.keymap.set('n', '<leader>l', miniharp.show_list,   { desc = 'miniharp: toggle marks list' })
+vim.keymap.set('n', '<leader>L', miniharp.enter_list,  { desc = 'miniharp: enter marks list' })

@@ -13,13 +13,9 @@
       "rev": "6cd7280adead7f586db6fccbd15d2cac7e2188b9",
       "src": "https://github.com/rafamadriz/friendly-snippets"
     },
-    "grapple.nvim": {
-      "rev": "b41ddfc1c39f87f3d1799b99c2f0f1daa524c5f7",
-      "src": "https://github.com/cbochs/grapple.nvim"
-    },
-    "jai.vim": {
-      "rev": "591aa0a75e9bb859028248b65a1a38d46b8d8576",
-      "src": "https://github.com/rluba/jai.vim"
+    "miniharp.nvim": {
+      "rev": "c21b5bed7d7cc51c13fa00deb09197d330c8a062",
+      "src": "https://github.com/vieitesss/miniharp.nvim"
     },
     "neovim": {
       "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
