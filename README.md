@@ -21,7 +21,7 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use a custom variant based on `Oxocarbon` color theme:
+I use the `Oxocarbon` color theme:
 - [Oxocarbon](https://github.com/nyoom-engineering/oxocarbon)
 
 ## Wallpaper

@@ -21,6 +21,10 @@
       "rev": "ff483051a47e27d84bdef47703538df1ed9f4a47",
       "src": "https://github.com/rose-pine/neovim"
     },
+    "oxocarbon.nvim": {
+      "rev": "7cc379b96fcbb4e75c5152906e0fccf81ce46590",
+      "src": "https://github.com/nyoom-engineering/oxocarbon.nvim"
+    },
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
       "src": "https://github.com/nvim-lua/plenary.nvim"
