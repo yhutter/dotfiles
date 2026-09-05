@@ -21,11 +21,8 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use the `Oxocarbon` color theme:
-- [Oxocarbon](https://github.com/nyoom-engineering/oxocarbon)
-
-## Wallpaper
-The wallpaper can be found [here](https://unsplash.com/photos/dark-blue-tinted-leaves-on-black-kXVogATbFgA).
+I use a custom variant based on `Naysayer` color theme:
+- [Naysayer](https://github.com/alljokecake/naysayer-theme.nvim)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
