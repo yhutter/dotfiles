@@ -1,6 +1,6 @@
 <div class="center">
     <h1>dotfiles</h1>
-    <img src="./assets/screenshot.png" alt="Screenshot"/>
+    <img src="./assets/screenshot_01.png" alt="Screenshot"/>
 </div>
 
 ## Command Line Tools
@@ -21,8 +21,8 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use the `Gruber Darker` color theme:
-- [Gruber Darker](https://github.com/blazkowolf/gruber-darker.nvim)
+I use a custom variant based on `Naysayer` color theme:
+- [Naysayer](https://github.com/alljokecake/naysayer-theme.nvim)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 

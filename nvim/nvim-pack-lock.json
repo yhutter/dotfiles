@@ -13,10 +13,6 @@
       "rev": "6cd7280adead7f586db6fccbd15d2cac7e2188b9",
       "src": "https://github.com/rafamadriz/friendly-snippets"
     },
-    "gruber-darker.nvim": {
-      "rev": "50fa4e583099729fcaaadc73a5afb74f7a91a625",
-      "src": "https://github.com/blazkowolf/gruber-darker.nvim"
-    },
     "miniharp.nvim": {
       "rev": "c21b5bed7d7cc51c13fa00deb09197d330c8a062",
       "src": "https://github.com/vieitesss/miniharp.nvim"
