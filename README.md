@@ -21,8 +21,11 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use a custom variant based on `Naysayer` color theme:
-- [Naysayer](https://github.com/alljokecake/naysayer-theme.nvim)
+I use the `Solarized Osaka` color theme:
+- [Solarized Osaka](https://github.com/craftzdog/solarized-osaka.nvim/tree/main)
+
+## Wallpaper
+The Wallpaper can be found [here](https://unsplash.com/photos/japanese-storefront-with-paper-lantern-6nuz52vsbWc).
 
 ## Setup
 - Copy the folders into `$HOME/.config` 

@@ -8,7 +8,9 @@ vim.pack.add({
         version = vim.version.range("1.*")
     },
     "https://github.com/vieitesss/miniharp.nvim",
-    "https://github.com/rafamadriz/friendly-snippets"
+    "https://github.com/rafamadriz/friendly-snippets",
+    "https://github.com/mason-org/mason.nvim",
+    "https://github.com/craftzdog/solarized-osaka.nvim"
 })
 
 local builtin = require("telescope.builtin")
@@ -36,3 +38,7 @@ vim.keymap.set('n', '<C-n>',     miniharp.next,        { desc = 'miniharp: next 
 vim.keymap.set('n', '<C-p>',     miniharp.prev,        { desc = 'miniharp: prev file mark' })
 vim.keymap.set('n', '<leader>l', miniharp.show_list,   { desc = 'miniharp: toggle marks list' })
 vim.keymap.set('n', '<leader>L', miniharp.enter_list,  { desc = 'miniharp: enter marks list' })
+
+require("mason").setup()
+
+vim.cmd.colorscheme("solarized-osaka")
