@@ -9,8 +9,8 @@ vim.pack.add({
     },
     "https://github.com/vieitesss/miniharp.nvim",
     "https://github.com/rafamadriz/friendly-snippets",
-    "https://github.com/mason-org/mason.nvim",
-    "https://github.com/craftzdog/solarized-osaka.nvim"
+    "https://github.com/thallada/farout.nvim",
+    "https://github.com/mason-org/mason.nvim"
 })
 
 local builtin = require("telescope.builtin")
@@ -41,4 +41,4 @@ vim.keymap.set('n', '<leader>L', miniharp.enter_list,  { desc = 'miniharp: enter
 
 require("mason").setup()
 
-vim.cmd.colorscheme("solarized-osaka")
+vim.cmd.colorscheme("farout")
