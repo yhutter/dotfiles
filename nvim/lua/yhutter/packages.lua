@@ -9,7 +9,6 @@ vim.pack.add({
     },
     "https://github.com/vieitesss/miniharp.nvim",
     "https://github.com/rafamadriz/friendly-snippets",
-    "https://github.com/thallada/farout.nvim",
     "https://github.com/mason-org/mason.nvim"
 })
 
@@ -40,5 +39,3 @@ vim.keymap.set('n', '<leader>l', miniharp.show_list,   { desc = 'miniharp: toggl
 vim.keymap.set('n', '<leader>L', miniharp.enter_list,  { desc = 'miniharp: enter marks list' })
 
 require("mason").setup()
-
-vim.cmd.colorscheme("farout")

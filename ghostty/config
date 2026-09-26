@@ -1,0 +1,10 @@
+theme = custom
+font-family = "JetBrainsMon Nerd Font"
+font-size = 18.0
+
+keybind = super+.=increase_font_size:1.5
+keybind = super+-=decrease_font_size:1.5
+keybind = super+,=reset_font_size
+
+background-blur = true
+background-opacity = 0.95

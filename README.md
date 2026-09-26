@@ -10,7 +10,6 @@
 ```bash
 brew install fish # Shell
 brew install rg # Ripgrep
-brew install kitty # Terminal
 brew install neovim # Text Editor
 brew install bat # Improved version of cat command
 brew install zoxide # Improved version of cd that remembers your visited directories
@@ -19,14 +18,11 @@ brew install --cask font-jetbrains-mono-nerd-font
 ```
 ## Tools
 - `Neovim` text editor of choice
-- `Kitty` terminal of choice
+- `Ghostty` terminal of choice
 
 ## Colorscheme
-I use the `Farout` color theme:
-- [Neovim Farout](https://github.com/thallada/farout.nvim)
-
-## Wallpaper
-The Wallpaper can be found [here](https://unsplash.com/photos/the-planet-mars-in-outer-space-BeUwLrt6HCQ).
+I use a custom variant of the `Naysayer` color theme:
+- [Naysayer Theme](https://github.com/alljokecake/naysayer-theme.nvim)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 

@@ -1,0 +1,21 @@
+background = "#091B1E"
+foreground = "#E0DEF2"
+
+cursor-color = "#BBB398"
+
+palette = 0=#E0DEF2
+palette = 1=#BBB398
+palette = 2=#E0DEF2
+palette = 3=#BBB398
+palette = 4=#E0DEF2
+palette = 5=#BBB398
+palette = 6=#BBB398
+palette = 7=#E0DEF2
+palette = 8=#E0DEF2
+palette = 9=#E0DEF2
+palette = 10=#5DB444
+palette = 11=#E0DEF2
+palette = 12=#E0DEF2
+palette = 13=#E0DEF2
+palette = 14=#E0DEF2
+palette = 15=#E0DEF2
