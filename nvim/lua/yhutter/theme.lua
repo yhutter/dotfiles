@@ -1,8 +1,8 @@
 local hl = vim.api.nvim_set_hl
-local fg = "#E0CCAE"
-local bg = "#0F0908"
-local primary = "#BF472C"
-local secondary = "#E0CCAE"
+local fg = "#E0DEF2"
+local bg = "#091B1E"
+local primary = "#BBBE98"
+local secondary = "#5DB444"
 local none = "NONE"
 
 vim.fn.matchadd("Todo", "\\(TODO:\\)")

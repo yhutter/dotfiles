@@ -21,11 +21,8 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use a custom variant of the `Farout` color theme:
-- [Farout Theme](https://github.com/thallada/farout.nvim/tree/main)
-
-## Wallpaper
-The wallpaper can be found [here](https://unsplash.com/photos/the-planet-mars-in-outer-space-BeUwLrt6HCQ).
+I use a custom variant of the `Naysayer` color theme:
+- [Naysayer Theme](https://github.com/alljokecake/naysayer-theme.nvim)
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
