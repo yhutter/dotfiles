@@ -21,8 +21,12 @@ brew install --cask font-jetbrains-mono-nerd-font
 - `Ghostty` terminal of choice
 
 ## Colorscheme
-I use a custom variant of the `Naysayer` color theme:
-- [Naysayer Theme](https://github.com/alljokecake/naysayer-theme.nvim)
+I use the `Rose Pine` color theme:
+- [Neovim](https://github.com/rose-pine/neovim)
+
+
+## Wallpaper
+The wallpaper can be found [here](https://github.com/dharmx/walls/blob/main/flowers/a_group_of_pink_flowers_on_a_tree.jpg).
 
 ## Setup
 - Copy the folders into `$HOME/.config` 
