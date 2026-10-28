@@ -1,0 +1,12 @@
+/* XPM */
+static char *shade-pressed_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"     1     1        4            1",
+/* colors */
+"` c None",
+". c #202020",
+"# c #206320",
+"a c #4e6f6e",
+/* pixels */
+"`"
+};

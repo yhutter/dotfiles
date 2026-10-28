@@ -1,0 +1,17 @@
+/* XPM */
+static char *right-inactive_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    10     2        8            1",
+/* colors */
+"` c None",
+". c #000000",
+"# c #867a4e",
+"a c #e3d398",
+"b c #ff00ff",
+"c c #462073",
+"d c #20696e",
+"e c #616374",
+/* pixels */
+"aaaabb##..",
+"aaaabb##.."
+};

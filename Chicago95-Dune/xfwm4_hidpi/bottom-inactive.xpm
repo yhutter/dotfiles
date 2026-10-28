@@ -1,0 +1,25 @@
+/* XPM */
+static char *bottom-inactive_xpm[] = {
+/* width height num_colors chars_per_pixel */
+"    32    10        8            1",
+/* colors */
+"` c None",
+". c #000000",
+"# c #e3d398",
+"a c #867a4e",
+"b c #ff00ff",
+"c c #462073",
+"d c #20696e",
+"e c #616374",
+/* pixels */
+"################################",
+"################################",
+"################################",
+"################################",
+"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"................................",
+"................................"
+};
